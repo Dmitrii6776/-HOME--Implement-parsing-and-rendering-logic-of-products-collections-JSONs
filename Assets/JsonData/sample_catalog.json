@@ -1,0 +1,550 @@
+[
+  {
+    "id": "1",
+    "name": "",
+    "location": null,
+    "imageUrl": "",
+    "products": [
+      {
+        "id": "2686cff8-362b-452a-8f94-6020b7690de0",
+        "createdAt": "2022-06-21T12:56:11+00:00",
+        "name": "classic_trousers",
+        "gender": "F",
+        "category": "trousers",
+        "subcategory": "classic_trousers",
+        "fabrics": [
+          "wool",
+          "cotton_heavy_twill",
+          "cotton_40s_stretch_poplin",
+          "cotton_stretch_sateen",
+          "cotton_gabardine",
+          "leather_lambskin"
+        ],
+        "images": [
+          {
+            "uuid": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/d36568ec-9c88-417a-ba80-af1cd9ff306a.png"
+          },
+          {
+            "uuid": "c55803d1-a9d7-415f-ba87-85a1f92479b7",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/b4f341ae-a47e-4b06-8308-8901c2aee6b4.png"
+          },
+          {
+            "uuid": "e7ae8b88-51ec-4784-a15a-0f0c58c94915",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/c5fd2c97-dc0b-4900-8ee1-a8bc27368c2e.png"
+          },
+          {
+            "uuid": "7417bf4b-3c33-414a-b9ec-521d66ffcdde",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/bf30f991-c54c-45fb-88b5-bf225af26b54.png"
+          }
+        ],
+        "options": [
+          {
+            "name": "Size",
+            "values": ["XS", "XS_S", "S", "M", "L", "L_XL", "XL"]
+          }
+        ],
+        "textures": [],
+        "materials": [
+          {
+            "name": "Pink Sherbet",
+            "uuid": "b68c342e-fee7-46ae-b028-c908d4878f78",
+            "type": "MeshPhongMaterial",
+            "color": "#F1919E"
+          }
+        ],
+        "variants": [
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["XS"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_XS_T.obj?alt=media&token=068f6922-d844-4b24-b4c4-518a1fcff7a2",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["XS_S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_XS_S_T.obj?alt=media&token=d800e692-9f3e-4075-885d-1a193dd4d24f",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_S_T.obj?alt=media&token=75331c70-8805-4df7-b50c-bca6273560f7",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["M"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_M_T.obj?alt=media&token=094557ce-14dc-42b6-aea9-512159749677",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["L"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_L_T.obj?alt=media&token=55d4ab1b-c231-4e81-a42c-6f8ec1dfcf18",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["L_XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_L_XL_T.obj?alt=media&token=23737a13-ca94-4d71-a8d6-a914c60f706e",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          },
+          {
+            "uuid": "",
+            "imageId": "c582fe02-23fa-4abe-a3ec-d113e91ffee9",
+            "options": ["XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F2686cff8-362b-452a-8f94-6020b7690de0%2Fclassic_trousers_XL_T.obj?alt=media&token=ac7d1439-350d-4866-9205-798fa6febed3",
+            "fabric": "cotton_gabardine",
+            "materialId": "b68c342e-fee7-46ae-b028-c908d4878f78"
+          }
+        ]
+      },
+      {
+        "uuid": "b764748a-95ee-48c6-9d33-acbc8d9daaa8",
+        "createdAt": "2022-06-21T12:56:11+00:00",
+        "name": "body_long_sleeve",
+        "gender": "F",
+        "category": "underware",
+        "subcategory": "bodysuit",
+        "fabrics": ["knit_cotton_rayon_jersey"],
+        "images": [
+          {
+            "uuid": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/804723fa-fa3a-4cfc-8b24-77480e51f891.png"
+          },
+          {
+            "uuid": "18993ab0-7ab2-4b15-b9ea-6348e816ce38",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/73d1273f-0a20-4a43-9423-df860117741a.png"
+          },
+          {
+            "uuid": "e3f57300-da6a-4f76-a3a0-3df3cc2f6ec7",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/67982f06-adf3-48e0-823d-fc98aab0b678.png"
+          },
+          {
+            "uuid": "7d2991b0-0385-4de0-ba91-11c3b774f9da",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/a7608f67-c5b6-46fd-a30b-057ef266472d.png"
+          }
+        ],
+        "options": [
+          {
+            "name": "Size",
+            "values": ["XS", "XS_S", "S", "M", "L", "L_XL", "XL"]
+          }
+        ],
+        "textures": [],
+        "materials": [
+          {
+            "name": "Gray-Asparagus",
+            "uuid": "69244fd5-ce8e-411f-b115-8db1733d4bd1",
+            "type": "MeshPhongMaterial",
+            "color": "#F1919E"
+          }
+        ],
+        "variants": [
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["XS"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_XS_T.obj?alt=media&token=3b616a45-90ab-4ba0-baca-9064f8084771",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["XS_S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_XS-S_T.obj?alt=media&token=783196ec-0546-42ee-ac1c-53c9a46406c0",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_S_T.obj?alt=media&token=eb7f1b0c-c668-46d4-a868-f0eb84988929",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["M"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_M_T.obj?alt=media&token=52fb1691-1606-4bc9-ba82-35ea15dd09d8",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["L"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_L_T.obj?alt=media&token=033902de-7078-4865-9e42-903cfb803d57",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["L_XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_L-XL_T.obj?alt=media&token=cb23f6ea-b491-4151-b617-c674f6ac31dd",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          },
+          {
+            "uuid": "",
+            "imageId": "e14128c0-4272-4e0c-84c1-9e868ed8b1d6",
+            "options": ["XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fb764748a-95ee-48c6-9d33-acbc8d9daaa8%2Fbody_XL_T.obj?alt=media&token=dc15b4ad-3067-4e13-9888-4559ea81a702",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69244fd5-ce8e-411f-b115-8db1733d4bd1"
+          }
+        ]
+      },
+      {
+        "uuid": "63c164aa-5330-4e9a-9f3b-5dabab2dcb6a",
+        "createdAt": "2022-07-12T13:55:46+00:00",
+        "name": "pencil_skirt_to_the_knee",
+        "gender": "F",
+        "category": "skirt",
+        "subcategory": "a-line_and_wide_skirts",
+        "fabrics": [
+          "wool",
+          "cotton_heavy_twill",
+          "cotton_40s_stretch_poplin",
+          "cotton_stretch_sateen",
+          "cotton_gabardine",
+          "leather_lambskin",
+          "denim_stretch",
+          "linen",
+          "muslin"
+        ],
+        "images": [
+          {
+            "uuid": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/4a8aed29-ce61-4ee9-ae98-2c14c6e1db12.png"
+          },
+          {
+            "uuid": "9f3ce566-685d-435a-ad97-2f3dc9c75cf1",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/63153fe0-09bf-433a-9556-3265ccd7eba9.png"
+          },
+          {
+            "uuid": "f48547e7-95d3-41c8-8b30-d9dd229d6b90",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/87704844-90b0-422d-837d-fb8f52e362a9.png"
+          },
+          {
+            "uuid": "520a74b4-cea3-4d06-bdd9-690620065443",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/6ef5a6cc-8e10-43b5-8109-cf5d80e54863.png"
+          }
+        ],
+        "options": [
+          {
+            "name": "Size",
+            "values": ["XS", "XS_S", "S", "M", "L", "L_XL", "XL"]
+          }
+        ],
+        "textures": [],
+        "materials": [
+          {
+            "name": "Dark Lavender",
+            "uuid": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8",
+            "type": "MeshPhongMaterial",
+            "color": "#6A4D90"
+          }
+        ],
+        "variants": [
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["XS"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_XS_T.obj?alt=media&token=4fd98222-6888-4de9-9bc4-13b2cd16921c",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["XS_S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_XS_S_T.obj?alt=media&token=87d7ddf7-c9f7-4f5a-b3f1-09562b01fea5",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_S_T.obj?alt=media&token=56be6f03-e9a8-4880-8c85-9e58844e3312",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["M"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_M_T.obj?alt=media&token=18a6611c-d86f-4dfd-9665-02f1037d4361",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["L"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_L_T.obj?alt=media&token=510c52ca-9b10-4b63-a3c4-0776bc3e720d",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["L_XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_L_XL_T.obj?alt=media&token=339a32a6-04be-4d2e-be63-8a6d8c066f99",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          },
+          {
+            "uuid": "",
+            "imageId": "7ea1985c-58d5-4cb1-b9f7-80f0a396787a",
+            "options": ["XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2Fa1a422c8-4e05-488f-9869-4157aa0ccd25%2Fpencil_skirt_to_the_knee_XL_T.obj?alt=media&token=92fcde39-72ff-4273-a598-28ddebe0f837",
+            "fabric": "wool",
+            "materialId": "418d5a85-ad08-4cfa-89a1-c22ba6c103e8"
+          }
+        ]
+      },
+      {
+        "uuid": "080e44a5-c6c4-4f66-8c03-7a9de1116e02",
+        "createdAt": "2022-07-12T13:55:46+00:00",
+        "name": "bra_t-shirt",
+        "gender": "F",
+        "category": "underware",
+        "subcategory": "bra",
+        "fabrics": ["knit_cotton_rayon_jersey"],
+        "images": [
+          {
+            "uuid": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/be2b6d5a-318a-4dfc-af7d-1ac7efd37f81.png"
+          },
+          {
+            "uuid": "23b0dfa9-84fe-4e0c-b5a0-3093e3d7853e",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/2f05aacd-d073-4c58-8ab8-52ab0e9ef970.png"
+          },
+          {
+            "uuid": "fdf83e3f-413d-458b-89fa-e64b21fc4fc5",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/59df4b3e-7ad0-4e6b-88f7-ee006c3a5de7.png"
+          },
+          {
+            "uuid": "093bb932-b199-4e55-8ef2-82d289be8bb1",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/d7cb5347-a2fe-483c-b77e-beacd2ad24c4.png"
+          }
+        ],
+        "options": [
+          {
+            "name": "Size",
+            "values": ["XS", "XS_S", "S", "M", "L", "L_XL", "XL"]
+          }
+        ],
+        "textures": [],
+        "materials": [
+          {
+            "name": "Barn Red",
+            "uuid": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e",
+            "type": "MeshPhongMaterial",
+            "color": "#770707"
+          }
+        ],
+        "variants": [
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["XS"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_XS_T.obj?alt=media&token=df19c6a3-f46d-47ac-b236-c8ed844b2e31",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["XS_S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_XS_S_T.obj?alt=media&token=69f71a34-2c57-47bf-81ea-1ae5a73395d8",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_S_T.obj?alt=media&token=07b9b702-e9a1-4ef5-b511-3f347d40051c",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["M"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_M_T.obj?alt=media&token=50cf4df0-198d-429c-bf25-74275e9e6838",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["L"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_L_T.obj?alt=media&token=b8e779d6-cce7-4552-87bb-7563f9f440a5",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["L_XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_L_XL_T.obj?alt=media&token=59e25580-657a-4ac5-a988-fbf52a264487",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          },
+          {
+            "uuid": "",
+            "imageId": "9e839c8f-1384-4f49-b22d-0ff5cae67104",
+            "options": ["XL"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F080e44a5-c6c4-4f66-8c03-7a9de1116e02%2Fbra_t-shirt_XL_T.obj?alt=media&token=e5fb049d-407f-4b9d-8119-e301afa4f728",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "69fbb370-7cb8-4fe5-93ef-5c4672f4424e"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Winter collection",
+    "location": null,
+    "imageUrl": "",
+    "products": [
+      {
+        "uuid": "260c066a-15ed-418a-9d51-2af07f6f2fd7",
+        "createdAt": "2022-07-12T13:55:46+00:00",
+        "name": "capri_pants",
+        "gender": "F",
+        "category": "trousers",
+        "subcategory": "capri_pants",
+        "fabrics": [
+          "wool",
+          "cotton_heavy_twill",
+          "cotton_40s_stretch_poplin",
+          "cotton_stretch_sateen",
+          "cotton_gabardine",
+          "leather_lambskin",
+          "knit_cotton_rayon_jersey"
+        ],
+        "images": [
+          {
+            "uuid": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/887ad261-e9d7-4279-9d88-d394ebe22665.png"
+          },
+          {
+            "uuid": "746943c2-f8ed-423d-83ba-51126048bc91",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/26ceec72-c078-4668-8290-1534129833c1.png"
+          },
+          {
+            "uuid": "9f6678cb-eb7c-4a0c-aa2c-c4a66d1bbcd4",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/04c37120-fceb-4e53-9afb-d982610d40a2.png"
+          },
+          {
+            "uuid": "2f1b3e99-8415-4827-8ed1-e8b70dcb5011",
+            "url": "https://storage.googleapis.com/buduar.appspot.com/garments/5fbff2b4-32da-4813-9d22-99f9a7fb3008.png"
+          }
+        ],
+        "options": [
+          {
+            "name": "Size",
+            "values": ["XS", "XS_S", "S", "M", "L", "L_XL", "XL"]
+          }
+        ],
+        "textures": [],
+        "materials": [
+          {
+            "name": "Independence",
+            "uuid": "a9a3a575-b871-4e14-83b8-91af48ac70a4",
+            "type": "MeshPhongMaterial",
+            "color": "#4D4E66"
+          }
+        ],
+        "variants": [
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["XS"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["XS_S"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["S"],
+            "objectUrl": "https://firebasestorage.googleapis.com/v0/b/buduar.appspot.com/o/garments%2F260c066a-15ed-418a-9d51-2af07f6f2fd7%2Fcapri_pants_S_T.obj?alt=media&token=3fdcc01e-674b-4f25-a2e3-e500b9bcf184",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["M"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["L"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["L_XL"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          },
+          {
+            "uuid": "",
+            "imageId": "683fe0bb-8a55-4895-8628-744e00da35a3",
+            "options": ["XL"],
+            "objectUrl": "",
+            "fabric": "knit_cotton_rayon_jersey",
+            "materialId": "a9a3a575-b871-4e14-83b8-91af48ac70a4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Summer collection",
+    "location": null,
+    "imageUrl": "",
+    "products": []
+  }
+]
